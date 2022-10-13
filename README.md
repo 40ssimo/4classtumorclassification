@@ -1,4 +1,4 @@
-# **MRI IMAGES CLASSIFICATION AS A DIAGNOSIS TOOLS FOR DETECTING TYPES OF BRAIN TUMOR DISEASE USING TRANSFER LEARNING VGG-16**
+# **MRI Images Classification as a Diagnosis Tools for Detecting Types of Brain Tumor Disease using Transfer Learning VGG-16**
 
 My college thesis code for bachelor degree.
 
