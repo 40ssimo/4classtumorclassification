@@ -12,7 +12,7 @@ Architecture model constructed sequently of:
   - *Random Flip Horizontal*
   - *Random Flip Vertical*
   - *Mixed All Random*
-- VGG-16 (Transfer Learning
+- VGG-16 (Transfer Learning)
 - Output Layer (with Softmax Activation Function)
 
 Hyperparameter configuration:
