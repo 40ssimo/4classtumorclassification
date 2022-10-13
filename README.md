@@ -2,7 +2,7 @@
 
 My college thesis code for bachelor degree.
 
-This project aims to classify 4 types of condition while diagnosing human brain, which consist normal brain, pituitary tumor, meningioma tumor and glioma tumor. 12 kind of model variation were built with differences on augmented layer and learning rate on each model. Pre-processing data were using data reduction technique, which is undersampling technique to equalize data on each classes
+This project aims to classify 4 types of condition while diagnosing human brain, which consist normal brain, pituitary tumor, meningioma tumor and glioma tumor. 12 kind of model variation were built with differences on augmented layer and learning rate on each model. Pre-processing data were using data reduction technique, which is undersampling technique to equalize data on each classes.
 
 Architecture model constructed sequently of:
 - Input Layer
