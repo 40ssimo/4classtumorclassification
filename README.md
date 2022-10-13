@@ -7,11 +7,11 @@ This project aims to classify 4 types of condition while diagnosing human brain,
 Architecture model constructed sequently of:
 - Input Layer
 - Augmented Layer Variation
-  - *Random Rotation
-  - *Random Zoom
-  - *Random Flip Horizontal
-  - *Random Flip Vertical
-  - *Mixed All Random
+  - *Random Rotation*
+  - *Random Zoom*
+  - *Random Flip Horizontal*
+  - *Random Flip Vertical*
+  - *Mixed All Random*
 - VGG-16 (Transfer Learning
 - Output Layer (with Softmax Activation Function)
 
@@ -24,3 +24,5 @@ Hyperparameter configuration:
 | Loss Function | *Categorical Crossentropy*|
 
 Prediction test:
+![gambar 1](https://github.com/40ssimo/4classtumorclassification/blob/main/pic/Picture1.png)
+![gambar 2](https://github.com/40ssimo/4classtumorclassification/blob/main/pic/Picture2.png)
