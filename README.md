@@ -1,4 +1,6 @@
-# 4classtumorclassification
+#MRI IMAGES CLASSIFICATION AS A DIAGNOSIS TOOLS
+FOR DETECTING TYPES OF BRAIN TUMOR DISEASE
+USING TRANSFER LEARNING VGG-16
 
 My college thesis code for bachelor degree.
 
