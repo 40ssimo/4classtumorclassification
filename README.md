@@ -23,7 +23,7 @@ Hyperparameter configuration:
 | Learning Rate  | 0.01 / 0.001  |
 | Loss Function | *Categorical Crossentropy*|
 
-Prediction test:
+Prediction Test Example:
 
 ![gambar 1](https://github.com/40ssimo/4classtumorclassification/blob/main/pic/Picture1.png)
 ![gambar 2](https://github.com/40ssimo/4classtumorclassification/blob/main/pic/Picture2.png)
