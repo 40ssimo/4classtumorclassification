@@ -11,4 +11,3 @@ Architecture model constructed sequently of:
 - Augmented Layer Variation
 - VGG-16
 - Output Layer (with Softmax Activation Function)
-
