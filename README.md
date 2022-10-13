@@ -24,5 +24,6 @@ Hyperparameter configuration:
 | Loss Function | *Categorical Crossentropy*|
 
 Prediction test:
+
 ![gambar 1](https://github.com/40ssimo/4classtumorclassification/blob/main/pic/Picture1.png)
 ![gambar 2](https://github.com/40ssimo/4classtumorclassification/blob/main/pic/Picture2.png)
